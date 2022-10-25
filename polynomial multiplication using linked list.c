@@ -2,6 +2,8 @@
 #include <malloc.h>
 #include <limits.h>
 
+//this code does polynomial multiplication using linked list data structure, this is a concise & optimized approach as compared to a lot of them out there
+
 struct node
 {
 	int exp, coeff;

@@ -21,6 +21,7 @@
 //[2,1,1,2]
 //[2,1,2,1]
 //[2,2,1,1]
+//Cool code, senpai orr veeran thanne
 #include <bits/stdc++.h>
 using namespace std;
 
